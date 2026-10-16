@@ -1,0 +1,7 @@
+Most basic 'Hello World' example.
+
+# Building
+Build with the Rust compiler.
+```
+rustc main.rs
+```
