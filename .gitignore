@@ -1,2 +1,7 @@
+# Executables and Debug Info
 *.pdb
 *.exe
+
+# Cargo
+target/
+Cargo.lock

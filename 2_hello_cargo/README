@@ -1,0 +1,12 @@
+Most basic 'Hello World' example using Cargo.
+
+# Building
+Build with Cargo
+```
+cargo build
+```
+
+# Running
+```
+cargo run
+```
